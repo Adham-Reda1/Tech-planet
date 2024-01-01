@@ -1,3 +1,3 @@
 # Tech-planet
 Tech-planet store
-##Dont play
+## Dont play on code
